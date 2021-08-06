@@ -23,6 +23,13 @@ If you enjoy my content, I would be very happy if you [subscribe](https://www.yo
 
 
 ## Popular YouTube Videos 📺 
+- [Created my own BitCoin](https://youtu.be/n204R3tkBOg)
+- [Hand, Face and Pose Detection](https://youtu.be/leIyeESnlM0)
+- [Block Websites](https://youtu.be/qmZiwfv7KrU)
+- [Create Anroid Apss using Python](https://youtu.be/C2VT_BUN5WI)
+- [Instagram and Redit Bot](https://youtu.be/GNe91BgX4FU)
+- [Predict Stock Prices](https://youtu.be/qSHMLYN1e5A)
+- [Track Flipkart & Amazon Prices](https://youtu.be/028BYBiPZ9E)
 
 ➡️ [More videos...](https://www.youtube.com/c/PrabhuCS/videos)
 
