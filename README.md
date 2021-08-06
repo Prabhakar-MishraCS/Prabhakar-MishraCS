@@ -1,7 +1,7 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Prabhakar
 [<img height="30" src="https://img.shields.io/badge/linkedln-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white%22" />](https://www.linkedin.com/in/prabhakar-mishr/)
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">](https://www.youtube.com/c/PrabhuCS?sub_confirmation=1) 
-[<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 
 ## I'm a Software Engineer at Amazon and YouTuber
 
@@ -49,7 +49,6 @@ If you enjoy my content, I would be very happy if you [subscribe](https://www.yo
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
-<br />
 
 ---
 ## Support Me!
