@@ -10,16 +10,13 @@
 
 - 🌱 I create free educational content about Python, AWS and general Computer Science related stuff.
 
-- 👀 I’m interested in coding and development related stuff. 
-
-- 🌱 I’m currently learning different AWS resources, and trying hands on automation related stuff too 
-
-
-- :telephone_receiver: If you want to connet with more Python and ML enthusiasts, please share your github links in the comments section of my video.
+- 👀 I’m interested in Coding, Development, Autoation, SDET, Data Engineering and QA related stuff (a.k.a Everything *_*). 
 
 - :iphone: For most tutorials the corresponding code is here on [GitHub](https://github.com/Prabhakar-MishraCS?tab=repositories)
 
 -  💞️ I’m looking to collaborate with other content creators. Feel free to reach out to me. Leave rest upto me.
+
+- - :telephone_receiver: If you want to connet with more Python and ML enthusiasts, please share your github links in the comments section of my video.
 
 If you enjoy my content, I would be very happy if you [subscribe](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA?sub_confirmation=1) to my channel 😊
 
