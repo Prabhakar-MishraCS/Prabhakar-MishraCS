@@ -1,6 +1,7 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Prabhakar
 [<img height="30" src="https://img.shields.io/badge/linkedln-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white%22" />](https://www.linkedin.com/in/prabhakar-mishr/)
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">](https://www.youtube.com/c/PrabhuCS?sub_confirmation=1) 
+[<img height="30" src="https://img.shields.io/badge/Instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white%22" />](https://www.instagram.com/prabhucs_ig/)
 
 
 ## I'm a Software Engineer at Amazon and YouTuber
@@ -39,18 +40,6 @@ If you enjoy my content, I would be very happy if you [subscribe](https://www.yo
 [instagram]: https://www.instagram.com/prabhucs_ig/
 [facebook]: https://www.facebook.com/profile.php?id=100070687688666
 
-
-
-## Connect With Me:
-<br>
-
-[<img height="30" src="https://img.shields.io/badge/linkedln-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white%22" />](https://www.linkedin.com/in/prabhakar-mishr/)
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">](https://www.youtube.com/c/PrabhuCS?sub_confirmation=1) 
-[<img height="30" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white%22" />](https://www.instagram.com/prabhucs_ig/)
-[<img height="30" src = "https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100070687688666) 
-
-
-</br>
 
 
 ## Support Me!
