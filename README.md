@@ -17,13 +17,14 @@
 
 - :telephone_receiver: If you want to connet with more Python and ML enthusiasts, please share your github links in the comments section of my video.
 
-- :iphone: For most tutorials the corresponding code is here on [GitHub(https://github.com/Prabhakar-MishraCS?tab=repositories)
+- :iphone: For most tutorials the corresponding code is here on [GitHub](https://github.com/Prabhakar-MishraCS?tab=repositories)
 
 -  💞️ I’m looking to collaborate with other content creators. Feel free to reach out to me. Leave rest upto me.
 
 If you enjoy my content, I would be very happy if you [subscribe](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA?sub_confirmation=1) to my channel 😊
 
 ---
+
 
 ## Popular YouTube Videos 📺 
 
@@ -40,7 +41,7 @@ If you enjoy my content, I would be very happy if you [subscribe](https://www.yo
 [instagram]: https://www.instagram.com/prabhucs_ig/
 [facebook]: https://www.facebook.com/profile.php?id=100070687688666
 
-
+---
 ## Reach Out to Me
 
 [<img height="30" src="https://img.shields.io/badge/Instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white%22" />](https://www.instagram.com/prabhucs_ig/)
@@ -50,7 +51,7 @@ If you enjoy my content, I would be very happy if you [subscribe](https://www.yo
 [<img height="30" src="https://img.shields.io/badge/Facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white%22" />](https://www.facebook.com/profile.php?id=100070687688666)
 
 
-
+---
 ## Support Me!
 
 **You can show support by starring my repos, liking and sharing my videos, and [subscribing](https://www.youtube.com/c/PrabhuCS?sub_confirmation=1) to my channel.**
