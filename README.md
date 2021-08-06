@@ -42,15 +42,16 @@ If you enjoy my content, I would be very happy if you [subscribe](https://www.yo
 
 
 ## Connect With Me:
+<br>
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedln.svg" />][Linkedln]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
+</br>
 
 
----
 ## Support Me!
 
 **You can show support by starring my repos, liking and sharing my videos, and [subscribing](https://www.youtube.com/c/PrabhuCS?sub_confirmation=1) to my channel.**
