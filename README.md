@@ -4,7 +4,7 @@
 
 
 
-## I'm a Software Engineer at Amazon and YouTuber
+## I'm a Engineer at Amazon and YouTuber
 
 - Creator of the [PrabhuCS](https://www.youtube.com/c/PrabhuCS) YouTube channel 
 
