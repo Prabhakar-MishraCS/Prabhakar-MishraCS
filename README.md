@@ -10,7 +10,7 @@
 
 - 🌱 I create free educational content about Python, AWS and general Computer Science related stuff.
 
-- 👀 I’m interested in Coding, Development, Autoation, SDET, Data Engineering and QA related stuff (a.k.a Everything *_*)
+- 👀 I’m interested in Coding, Development, Automation, SDET, Data Engineering and QA related stuff (a.k.a Everything *_* )
 
 - :iphone: For most tutorials the corresponding code is here on [GitHub](https://github.com/Prabhakar-MishraCS?tab=repositories)
 
